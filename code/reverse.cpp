@@ -1,5 +1,6 @@
 
 #include <iostream>
+#include <vector>
 
 using namespace std;
 
@@ -26,19 +27,27 @@ ListNode* reverseList(ListNode* head) {
         return nullptr;
     }
 
-    ListNode *prior = nullptr;
-    ListNode *current = head;
-    ListNode *p = nullptr;
-    p = current->next;
-
+    vector<ListNode *> nodeList;
+    auto p = head;
     while(p != nullptr){
-        prior = current;
-        p = current->next;
-        
-        current->next = prior;
+        nodeList.push_back(p);
         p = p->next;
     }//end while
-    return nullptr;
+
+    ListNode* newHead = nullptr;
+    for(int i = nodeList.size() - 1 ;  i >=0 ;i--){
+        ListNode* curNode = nodeList[i];
+        if(newHead == nullptr){
+            newHead = curNode;
+        }
+        
+        if(i - 1 >= 0){
+            curNode->next = nodeList[i - 1];
+        }else{
+            curNode->next = nullptr;
+        }
+    }//end for i;
+    return newHead;
 }
 
 int main(){
@@ -56,6 +65,7 @@ int main(){
 
     printList(head);
 
-
+    head = reverseList(head);
+    printList(head);
     return 0;
 }
