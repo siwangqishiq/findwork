@@ -1,6 +1,6 @@
 ### Android系统架构 
     应用层 
-    framework层 （ActivityThread AMS WMS）
+    framework层 （ActivityThread AMS WMS ...）
     系统核心层 AndroidRunTime + Native c++库 
     硬件抽象层 
     linux内核
@@ -19,12 +19,13 @@
         3.解析inir.rc脚本 fork方式启动Zygote进程
     Zygote进程
         1.启动AndroidRunTime 虚拟机
-        2.加载JNI服务
+        2.加载JNI相关初始化配置
         3.启动SystemServer进程
         4.启动 LocalServerSocket,监听AMS发起的fork进程请求
     SystemServer进程
-         
-
+        1.启动binder线程池
+        2.启动系统级服务 AMS WMS PMS ...
+        
 
 ### Android 应用启动流程
 
@@ -35,4 +36,11 @@
 ### Binder IPC
 
 ### apk打包流程
+
+### UI底层显示流程
+
+### RecyclerView源码分析 
+
+
+
 
