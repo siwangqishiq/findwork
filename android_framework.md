@@ -23,8 +23,12 @@
         3.启动SystemServer进程
         4.启动 LocalServerSocket,监听AMS发起的fork进程请求
     SystemServer进程
-        1.启动binder线程池
-        2.启动系统级服务 AMS WMS PMS ...
+        1.初始化binder线程池 
+        2.启动SysmetmServerManager 总服务管理 
+        3.开启 引导服务(AMS,PMS...) 核心服务(WebViewUpdateService) 其他服务
+        4.启动launcher应用程序
+    Launcher应用程序启动 
+        显示Android桌面
         
 
 ### Android 应用启动流程
