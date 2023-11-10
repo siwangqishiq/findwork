@@ -6,5 +6,5 @@
     https://leetcode.cn/problems/reverse-linked-list/
 
 
-### 3.两数相加 [code](code/two_num.cpp)
+### 3.两数相加 [code](code/add_two.cpp)
     https://leetcode.cn/problems/add-two-numbers
