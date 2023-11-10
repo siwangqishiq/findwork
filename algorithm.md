@@ -2,8 +2,9 @@
     
     https://leetcode.cn/problems/longest-substring-without-repeating-characters/submissions/
 
-### 2.反转链表 
+### 2.反转链表 [code](code/reverse.cpp)
     https://leetcode.cn/problems/reverse-linked-list/
 
 
-
+### 3.两数相加 [code](code/two_num.cpp)
+    https://leetcode.cn/problems/add-two-numbers
