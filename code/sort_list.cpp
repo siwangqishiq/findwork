@@ -13,7 +13,7 @@ struct ListNode {
     ListNode(int x, ListNode *next) : val(x), next(next) {}
 };
 
-bool customSort(ListNode *left, ListNode *right) {
+static bool customSort(ListNode *left, ListNode *right) {
     return left->val < right->val;
 }
 
