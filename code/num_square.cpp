@@ -4,15 +4,20 @@
 
 using namespace std;
 
+void test(){
+
+}
+
 int numSquare(int n){
     map<int , int> sqMap;
-        
+    test();
+
     for(int i = 1 ; i <= n; i++){
         const int squareValue = i * i;
         if(squareValue > n){
             break;
         }
-
+        
         sqMap[squareValue] = i;
     }//end for each
 
@@ -31,6 +36,8 @@ int main(){
     while(1){
 
     }
+
+    test();
     return 0;
 }
 
