@@ -61,7 +61,7 @@
 - 管理外包团队开发任务，跟进进度、审核交付质量。
 
 **核心技术：**  
-Android、Java、Kotlin、NDK、C++、OpenGL ES、WebSocket、MVP架构
+Android、Java、Kotlin、NDK、C++、OpenGL ES、WebSocket、MVVM架构
 
 **项目成果：**  
 - 支持15+企业客户接入，企业级日活用户达5万+，系统稳定性显著提升。  
@@ -195,7 +195,9 @@ Java、Spring、MySQL、HTML、JavaScript
 ### Android图片编辑库
 
 **项目链接**  
-[ImageEditor-Android](https://github.com/siwangqishiq/ImageEditor-Android) / [ImageEditorGL](https://github.com/siwangqishiq/ImageEditorGL)
+[https://github.com/siwangqishiq/ImageEditor-Android](https://github.com/siwangqishiq/ImageEditor-Android) 
+
+[https://github.com/siwangqishiq/ImageEditorGL](https://github.com/siwangqishiq/ImageEditorGL)
 
 **项目简介**  
 GitHub累计获2.2k+ Star，自主开发的Android图片编辑库，集成原生Canvas与OpenGL ES两种渲染方案，支持图片裁剪、旋转、滤镜、贴纸、文本添加及GPU加速滤镜，提供高性能且功能丰富的编辑体验。
@@ -213,7 +215,9 @@ Java/Kotlin、Android Canvas、自定义View、OpenGL ES、C++、NDK
 ### PurpleEle 跨平台2D游戏引擎
 
 **项目链接**  
-[引擎代码库](https://github.com/siwangqishiq/purple_engine) / [项目主页](https://github.com/siwangqishiq/PurpleEle)
+[https://github.com/siwangqishiq/purple_engine](https://github.com/siwangqishiq/purple_engine)  
+
+[https://github.com/siwangqishiq/PurpleEle](https://github.com/siwangqishiq/PurpleEle)
 
 **项目简介**  
 自主研发的跨平台2D游戏引擎，支持高效图元、纹理绘制及离屏渲染，内置基于SDF的高质量中文文字渲染方案。兼容Windows、macOS、Linux、Android及树莓派等多平台，具备卓越移植性。
@@ -236,7 +240,7 @@ C++、OpenGL ES、SDF文本渲染、自研View体系
 [https://github.com/siwangqishiq/dear-imclient](https://github.com/siwangqishiq/dear-imclient)
 
 **项目简介**  
-基于Flutter自主开发的跨平台高性能即时通讯客户端，支持文本聊天、图片、视频通话、截图发送等多样功能。全部业务逻辑以Dart实现，覆盖Android、iOS、Windows、macOS、Linux等六大平台。无任何第三方状态管理库和云服务依赖，自主实现底层二进制通讯协议和云存储系统，具备完整自研能力，适合安全性和可控性要求极高的工程场景
+基于Flutter自主开发的跨平台高性能即时通讯客户端，支持文本聊天、图片、视频通话、截图发送等多样功能。全部业务逻辑以Dart实现，覆盖Android、iOS、Windows、macOS、Linux等五大平台。无任何第三方状态管理库和云服务依赖，自主实现底层二进制通讯协议和云存储系统，具备完整自研能力，适合安全性和可控性要求极高的工程场景
 
 **技术栈**  
 Flutter、Dart、Netty（二进制通讯协议自定义实现）、自研云存储、WebRTC
@@ -256,4 +260,4 @@ Flutter、Dart、Netty（二进制通讯协议自定义实现）、自研云存�
 
 ## 其他
 - GitHub 个人作品：[https://github.com/siwangqishiq](https://github.com/siwangqishiq)
-- 技术博客：[掘金](https://juejin.cn/user/638177426290215)
+- 技术博客：[掘金](https://juejin.cn/user/638177426290215) https://juejin.cn/user/638177426290215
