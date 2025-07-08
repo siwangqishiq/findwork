@@ -5,7 +5,7 @@
 - **姓名**：潘易
 - **性别**：男
 - **出生年月**：1989.10
-- **电话**：138-8844-5707
+- **电话**：135-8844-5707
 - **邮箱**：525647740@qq.com
 - **GitHub**：[https://github.com/siwangqishiq](https://github.com/siwangqishiq)
 - **现居地**：杭州
