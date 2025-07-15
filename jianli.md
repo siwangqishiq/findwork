@@ -45,7 +45,7 @@
 ## 工作经历
 
 ### 杭州网易翼信科技（2019.05 — 至今）  
-**Android高级开发工程师 / 小组组长 (网易等级 P4-1)**
+**Android高级开发工程师 / 小组组长**
 
 #### 【项目】马上办客户端（2019.05 — 至今）  
 **企业级IM即时通讯软件**
@@ -71,7 +71,7 @@ Android、Java、Kotlin、NDK、C++、OpenGL ES、WebSocket、MVVM架构
 ---
 
 ### 杭州阿里巴巴优酷少儿（2018.02 — 2019.05）  
-**Android高级开发工程师 (阿里等级 P6)**
+**Android高级开发工程师**
 
 #### 【项目】优酷少儿客户端开发（2018.02 — 2019.05）
 
@@ -109,7 +109,7 @@ Android、OpenGL ES、C++、OBJ解析、Blinn-Phong光照模型
 ---
 
 ### 杭州网易（2015.10 — 2018.01）  
-**Android开发工程师 (网易等级 P3-1)**
+**Android开发工程师**
 
 #### 【项目】企业易信客户端开发（2015.10 — 2018.01）
 
@@ -220,7 +220,7 @@ Java/Kotlin、Android Canvas、自定义View、OpenGL ES、C++、NDK
 [https://github.com/siwangqishiq/PurpleEle](https://github.com/siwangqishiq/PurpleEle)
 
 **项目简介**  
-自主研发的跨平台2D游戏引擎，支持高效图元、纹理绘制及离屏渲染，内置基于SDF的高质量中文文字渲染方案。兼容Windows、macOS、Linux、Android及树莓派等多平台，具备卓越移植性。
+自主研发的跨平台2D游戏引擎，支持高效图元、纹理绘制及离屏渲染，内置基于SDF的高质量中文文字渲染方案。兼容Windows、macOS、Linux、Android及树莓派等多平台，具备卓越移植性，可用于 IM 客户端的高性能 UI 动画渲染引擎。
 
 **技术栈**  
 C++、OpenGL ES、SDF文本渲染、自研View体系
@@ -254,7 +254,7 @@ Flutter、Dart、Netty（二进制通讯协议自定义实现）、自研云存�
 
 ## 个人总结
 
-拥有10年以上Android及跨平台开发经验，精通Java/Kotlin和C++，擅长OpenGL ES图形渲染和高性能IM客户端开发。具备扎实的数学功底和系统架构能力，能独立设计复杂模块并带领团队高效完成项目。期望在杭州从事Android高级开发，发挥技术专长，助力企业级产品稳定发展。
+拥有10年以上Android及跨平台开发经验，精通Java/Kotlin和C++，擅长OpenGL ES图形渲染和高性能IM客户端开发。具备扎实的数学功底和系统架构能力，能独立设计复杂模块并带领团队高效完成项目。希望在音视频/图形/跨平台/IM等方向发展，发挥技术专长，助力企业级产品稳定发展。
 
 ---
 
